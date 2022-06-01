@@ -103,3 +103,46 @@
   font-weight: 500;
   font-family: Verdana, Geneva, sans-serif;
 }
+
+.navbar-vitae {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  margin: 0;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.navbar-vitae li {
+  float: left;
+  margin: 0 3%;
+}
+.navbar-vitae-a-white-active {
+  display: block;
+  /* color: white; */
+  color: #f4f8ff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.navbar-vitae-a-white-active:hover {
+  opacity: 0.6;
+}
+
+.navbar-vitae-a-grey-passive {
+  pointer-events: none;
+  display: block;
+  color: #555555;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.navbar-vitae-a-black-passive {
+  pointer-events: none;
+  /* color: black; */
+  color: #0b034bc9;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, sans-serif;
+}
