@@ -117,7 +117,6 @@
   margin: 0 3%;
 }
 .navbar-vitae-a-white-active {
-  display: block;
   pointer-events: none;
   /* color: white; */
   color: #f4f8ff;
