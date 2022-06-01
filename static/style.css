@@ -118,6 +118,7 @@
 }
 .navbar-vitae-a-white-active {
   display: block;
+  pointer-events: none;
   /* color: white; */
   color: #f4f8ff;
   font-size: 25px;
