@@ -76,7 +76,7 @@
 }
 
 .diag_box {
-  margin-top: 10%;
+  margin-top: 0%;
   margin-left: 7%;
   position: absolute;
   width: 86%;
@@ -120,19 +120,6 @@
   display: block;
   /* color: white; */
   color: #f4f8ff;
-  font-size: 25px;
-  font-weight: bold;
-  font-family: Verdana, Geneva, sans-serif;
-}
-
-.navbar-vitae-a-white-active:hover {
-  opacity: 0.6;
-}
-
-.navbar-vitae-a-grey-passive {
-  pointer-events: none;
-  display: block;
-  color: #555555;
   font-size: 25px;
   font-weight: bold;
   font-family: Verdana, Geneva, sans-serif;
