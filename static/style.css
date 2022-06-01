@@ -116,8 +116,7 @@
   float: left;
   margin: 0 3%;
 }
-.navbar-vitae-a-white-active {
-  pointer-events: none;
+.navbar-vitae-a-white-active {  
   /* color: white; */
   color: #f4f8ff;
   font-size: 25px;
